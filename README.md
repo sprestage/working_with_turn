@@ -10,7 +10,6 @@ To run the rake test tasks, use the following syntax
 ###Minitest output without the turn gem
 
 ```
-<p style='color:green'>
 susanmaclaptop:euler_ruby susan$ rake euler20
 /Users/susan/.rvm/rubies/ruby-2.1.4/bin/ruby test/euler_20_test.rb
 
@@ -26,12 +25,10 @@ Run options: --seed 50507
 Finished in 0.008894s, 337.2969 runs/s, 337.2969 assertions/s.
 
 3 runs, 3 assertions, 0 failures, 0 errors, 0 skips
-</p>
 ```
 
 ###Minitest output with the turn gem
 ```
-<p style='color:green'>
 susanmaclaptop:euler_ruby susan$ rake euler20
 /Users/susan/.rvm/rubies/ruby-2.0.0-p247/bin/ruby test/euler_20_test.rb
 
@@ -52,12 +49,9 @@ TestFindFactorialSum
 Finished in 0.004963 seconds.
 
 3 tests, 3 passed, 0 failures, 0 errors, 0 skips, 3 assertions
-</p>
 ```
 
 
 ##Code used for testing
 The code used for testing out turn is my solution to the Project Euler problem #20.  Project Euler is a web site for practicing programming by using your language of choice to solve math problems.  Project Euler can be found here: http://projecteuler.net/problems.  My solutions can be found here: https://github.com/sprestage/euler_ruby.
-
-This project was inspired by the Seatle.rb May 2014 Coding Challenge found here, http://www.thagomizer.com/blog/2014/05/06/may-coding-challenge.html
 
