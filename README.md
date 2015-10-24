@@ -1,5 +1,5 @@
 #Working with turn gem
-This project is to explore by ability to bring the turn gem up to date.  The turn gem only supports minitest up to version 4.7.5.  Minitest 5.x is not supported by turn.
+This project is to explore my ability to bring the turn gem up to date.  The turn gem only supports minitest up to version 4.7.5.  Minitest 5.x is not supported by turn.
 
 ##Run rake tests
 To run the rake test tasks, use the following syntax
@@ -53,5 +53,7 @@ Finished in 0.004963 seconds.
 
 
 ##Code used for testing
-The code used for testing out turn is my solution to the Project Euler problem #20.  Project Euler is a web site for practicing programming by using your language of choice to solve math problems.  Project Euler can be found here: http://projecteuler.net/problems.  My solutions can be found here: https://github.com/sprestage/euler_ruby.
+The code used for testing out turn is my solution to the Project Euler problem #20.  
+
+Project Euler is a web site for practicing programming by using your language of choice to solve math problems.  Project Euler can be found here: http://projecteuler.net/problems.  My solutions can be found here: https://github.com/sprestage/euler_ruby.
 
